@@ -1,4 +1,4 @@
-# Weather App - https://ankushweatherapp.netlify.app
+# Weather App - 
 
 ## Description
 
